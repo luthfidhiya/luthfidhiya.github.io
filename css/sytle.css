@@ -1,78 +1,76 @@
 body {
-    margin-top: 50px;
-    background-color: rgb(42, 125, 250);
+  margin-top: 50px;
+  background-color: rgb(42, 125, 250);
 }
 
 #border {
-    margin: 80px 6%;
-    background-color:  rgb(42, 125, 250);
+  margin: 80px 6%;
+  background-color: rgb(42, 125, 250);
 }
 
-.nav-warna{
-    background-color: rgb(13, 28, 161);
-
+.nav-warna {
+  background-color: rgb(13, 28, 161);
 }
 
 section {
-    border: 1px solid blue;
-    min-height: 700px;
-    border-radius: 10px;
-    margin-bottom: 50px;
+  border: 1px solid blue;
+  min-height: 700px;
+  border-radius: 10px;
+  margin-bottom: 50px;
 }
 
 .jumbotron {
-     padding: 80px;
-     background-image: url(../img/header.jpg);
-     background-size: cover;
-     background-attachment: fixed;
-     border-radius: 0;
-     color: rgb(213, 213, 213);
-     text-shadow: 2px 2px 2px #000ba0;
-     border-bottom: 1px solid blue;
- } 
+  padding: 80px;
+  background-image: url(../img/header.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  border-radius: 0;
+  color: rgb(213, 213, 213);
+  text-shadow: 2px 2px 2px #000ba0;
+  border-bottom: 1px solid blue;
+}
 
 .jumbotron img {
-    width: 20%;
-    border: 5px solid rgb(13, 28, 161);
-    margin: 35px auto;
+  width: 210px;
+  border: 5px solid rgb(13, 28, 161);
+  margin: 35px auto;
 }
 
 .about {
-    background-color: rgb(60, 124, 209);
+  background-color: rgb(60, 124, 209);
 }
 
 .gallery {
-    background-color: rgb(39, 96, 219);
+  background-color: rgb(39, 96, 219);
 }
 
 .contact {
-    margin-bottom: 0;
-    background-color: rgb(82, 148, 202);
+  margin-bottom: 0;
+  background-color: rgb(82, 148, 202);
 }
 
-
 .container .row .col-md h2 {
-    text-shadow: 1px 1px 1px #000ba0;
-    color: whitesmoke;
-    margin-bottom: 2px;
-    margin-top: 20px;
+  text-shadow: 1px 1px 1px #000ba0;
+  color: whitesmoke;
+  margin-bottom: 2px;
+  margin-top: 20px;
 }
 
 hr {
-margin-top: 0;
-width: 250px;
-border: 3px solid #666;
-margin-bottom: 50px;
+  margin-top: 0;
+  width: 250px;
+  border: 3px solid #666;
+  margin-bottom: 50px;
 }
 
 .contact .card-footer {
-    color: black;
-    padding: 0;
+  color: black;
+  padding: 0;
 }
 
 footer {
-    width: 100%;
-    height: 40px;
-    font: 15px/40px auto;
-    background-color: rgb(13, 28, 161);
+  width: 100%;
+  height: 40px;
+  font: 15px/40px auto;
+  background-color: rgb(13, 28, 161);
 }
